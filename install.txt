@@ -1,0 +1,7 @@
+Install
+=======
+1. Upload the "qmr" directory to /wp-content/plugins/
+
+2. Go to Plugins page and activate Quotmarks Replacer.
+
+3. Have fun :)
